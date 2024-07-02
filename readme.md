@@ -5,6 +5,8 @@ https://dacon.io/competitions/official/236290/overview/description
   - 데이콘에서 실시한 웹 기사 추천 알고리즘 개발 대회
     - 기간 : 2024.06.03 ~ 2024.07.01
 
+/n 
+
 ## ✔️데이터
   1) view_log.csv : 유저가 기사를 조회한 로그 데이터
   2) article_info.csv : 기사에 대한 정보 데이터
@@ -19,7 +21,7 @@ https://dacon.io/competitions/official/236290/overview/description
     - 영화, 음악, 뉴스, 책, 연구 주제 등 검색에 적용될 수 있음
     - 출처 : https://terms.naver.com/entry.naver?docId=3436437&cid=42346&categoryId=42346
 
-    ![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/2da179e8-acc8-4346-9681-4cb41f5ae725)
+  [image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/2da179e8-acc8-4346-9681-4cb41f5ae725)
     
   👥 Collaborative Filtering (협업 필터링)
 
