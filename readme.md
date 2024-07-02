@@ -18,24 +18,35 @@ https://dacon.io/competitions/official/236290/overview/description
 
 ## ✔️추천시스템 모델 
   🧐 추천 시스템이란 ?
-    - 정보 필터링을 사용하여 사용자에게 흥미로운 정보 아이템을 제공하는 시스템
-    
-    - 사용자의 선호도, 관심 분야 등의 정보를 기반으로 사용자의 선호도의 알맞는 정보 및 상품을 추천하거나 제공하는 방법
-    
-    - 영화, 음악, 뉴스, 책, 연구 주제 등 검색에 적용될 수 있음
   
+    - 정보 필터링을 사용하여 사용자에게 흥미로운 정보 아이템을 제공하는 시스템
+    - 사용자의 선호도, 관심 분야 등의 정보를 기반으로 사용자의 선호도의 알맞는 정보 및 상품을 추천하거나 제공하는 방법
+    - 영화, 음악, 뉴스, 책, 연구 주제 등 검색에 적용될 수 있음
     - 출처 : https://terms.naver.com/entry.naver?docId=3436437&cid=42346&categoryId=42346
 
-![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/8271be1c-976f-47d6-bde6-bb09a2844876)
+
+추천 시스템에서 가장 기본적인 모델
+![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/3a974329-9e32-41b0-8251-881cb31507ae)
 
 
-  👥 Collaborative Filtering (협업 필터링)
+ 출처 : 마음을 읽는 개인화 마케팅의 시대
 
+  ### 👥 Collaborative Filtering (협업 필터링)
   
-  🗂️ Content- based Recommender Systems (컨텐츠 기반 추천 시스템)
+      - 같은 컨텐츠를 좋아하는 사람은 컨텐츠 취향이 비슷할 것이라는 가정에 기반한 알고리즘 
+      - 다른 사용자와의 유사성을 기반으로 추천
   
+  ### 🗂️ Content- based Recommender Systems (컨텐츠 기반 추천 시스템)
+  
+      - 사용자가 선택한 컨텐츠와 유사한 속성의 컨텐츠를 추천해주는 방식 
+      - 컨텐츠 간의 유사성을 기반으로 추천
+      
 
 ## ✔️사용한 모델
 ### Hybride Recommender System
+![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/8271be1c-976f-47d6-bde6-bb09a2844876)
+
+
+
 
 ## ✔️결과 
