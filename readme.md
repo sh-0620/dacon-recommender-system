@@ -33,18 +33,19 @@ https://dacon.io/competitions/official/236290/overview/description
  [출처] : 마음을 읽는 개인화 마케팅의 시대
 
 <br>
+
   ### 👥 Collaborative Filtering (협업 필터링)
   
       - 같은 컨텐츠를 좋아하는 사람은 컨텐츠 취향이 비슷할 것이라는 가정에 기반한 알고리즘 
       - 다른 사용자와의 유사성을 기반으로 추천
-  
+<br>
+
   ### 🗂️ Content-based Filtering (컨텐츠 기반 필터링)
   
       - 사용자가 선택한 컨텐츠와 유사한 속성의 컨텐츠를 추천해주는 방식 
       - 컨텐츠 간의 유사성을 기반으로 추천
 
-
-    <br>  
+<br>  
 
 ## ✔️사용한 모델
 ### Hybride Recommender System
