@@ -4,7 +4,7 @@
 https://dacon.io/competitions/official/236290/overview/description 
   - 데이콘에서 실시한 웹 기사 추천 알고리즘 개발 대회
     - 기간 : 2024.06.03 ~ 2024.07.01
-      
+<br>      
 
 
 
@@ -15,7 +15,7 @@ https://dacon.io/competitions/official/236290/overview/description
      
 🙌 데이터에 대한 자세한 설명은 data 폴더 readme를 확인해 주세요.  
 
-
+<br>
 
 
 ## ✔️추천시스템 모델 
@@ -25,14 +25,14 @@ https://dacon.io/competitions/official/236290/overview/description
     - 사용자의 선호도, 관심 분야 등의 정보를 기반으로 사용자의 선호도의 알맞는 정보 및 상품을 추천하거나 제공하는 방법
     - 영화, 음악, 뉴스, 책, 연구 주제 등 검색에 적용될 수 있음
     [출처] : https://terms.naver.com/entry.naver?docId=3436437&cid=42346&categoryId=42346
-
+<br>
 
 추천 시스템에서 대표적인 알고리즘은 협업 필터링과 컨텐츠 기반 필터링이 있다.
 
 ![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/3a974329-9e32-41b0-8251-881cb31507ae)
  [출처] : 마음을 읽는 개인화 마케팅의 시대
 
-
+<br>
   ### 👥 Collaborative Filtering (협업 필터링)
   
       - 같은 컨텐츠를 좋아하는 사람은 컨텐츠 취향이 비슷할 것이라는 가정에 기반한 알고리즘 
@@ -44,7 +44,7 @@ https://dacon.io/competitions/official/236290/overview/description
       - 컨텐츠 간의 유사성을 기반으로 추천
 
 
-      
+    <br>  
 
 ## ✔️사용한 모델
 ### Hybride Recommender System
