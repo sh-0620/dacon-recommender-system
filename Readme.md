@@ -59,9 +59,9 @@ https://dacon.io/competitions/official/236290/overview/description
 ![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/958eea93-0c8d-4912-8e46-63c3e9204673)
 
 ## 결과 
-평가 산식 : Recall@5
-Public Score: 전체 추천 대상 중 중 30%
-Private Score: 전체 추천 대상
+- 평가 산식 : Recall@5
+- Public Score: 전체 추천 대상 중 중 30%
+- Private Score: 전체 추천 대상
 
 
 
@@ -70,6 +70,4 @@ Private Score: 전체 추천 대상
 
 
 
-Public 점수 0.32655
-Private 점수 0.32332를 기록!!
-
+**Public 점수 0.32655 Private 점수 0.32332를 기록!!**
