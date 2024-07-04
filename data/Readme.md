@@ -1,8 +1,8 @@
 ## Dataset Info.
 
 ### view_log.csv [파일] - train 데이터
-유저가 기사를 조회한 로그 데이터
-학습 데이터이며 해당 데이터에 존재하는 유저만 추천의 대상이 됨
+- 유저가 기사를 조회한 로그 데이터
+- 학습 데이터이며 해당 데이터에 존재하는 유저만 추천의 대상이 됨
 userID : 유저 고유 ID
 articleID : 기사 고유 ID
 userRegion : 유저가 속한 지역
@@ -10,7 +10,7 @@ userCountry : 유저가 속한 국가
 
 
 ### article_info.csv [파일] - meta 데이터
-기사에 대한 정보
+- 기사에 대한 정보
 articleID : 기사 고유 ID
 Title : 기사의 제목
 Content : 기사의 본문
