@@ -32,3 +32,9 @@ userID : 유저 고유 ID
 articleID : 기사 고유 ID
 해당되는 유저에게 추천할 기사의 ID
 한 유저에게 5개의 기사를 추천하게 되며, 유저가 기존에 조회한 기사 추천 가능
+
+
+
+### article_nouns_df.csv [파일] 
+- 불필요한 컬럼 제거 (userRegion, userCountry)
+- article_info.csv 파일의 Title, Content 칼럼을 불용어 제거 및 명사만 추출
