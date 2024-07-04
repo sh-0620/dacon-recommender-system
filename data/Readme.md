@@ -9,6 +9,8 @@ userRegion : 유저가 속한 지역
 userCountry : 유저가 속한 국가
 
 
+
+
 ### article_info.csv [파일] - meta 데이터
 - 기사에 대한 정보
 articleID : 기사 고유 ID
@@ -20,6 +22,8 @@ userID : 기사를 작성한 유저 고유 ID
 view_log에 포함되지 않은 유저가 존재할 수 있으며, 해당 유저는 추천의 대상이 되지 않음
 userCountry : 기사를 작성한 유저가 속한 국가
 userRegion : 기사를 작성한 유저가 속한 지역
+
+
 
 
 ### sample_submission.csv [파일] - 제출 양식
