@@ -52,3 +52,8 @@ https://dacon.io/competitions/official/236290/overview/description
 ![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/73a4d3fe-38ba-4abb-acb7-34c7af908470)
 
 **본 대회에서는 협업 필터링(Collaborative Filtering)과 컨텐츠 기반 필터링(Content-based Filtering)을 조합한 알고리즘인 하이브리드 추천 시스템을 활용하여 웹 기사를 추천하였다.**
+
+
+
+
+![image](https://github.com/sh-0620/dacon-recommender-system/assets/172260370/958eea93-0c8d-4912-8e46-63c3e9204673)
