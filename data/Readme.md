@@ -37,5 +37,4 @@
 
 
 ### article_nouns_df.csv [파일] 
-- 불필요한 컬럼 제거 (userRegion, userCountry)
-- article_info.csv 파일의 Title, Content 칼럼을 불용어 제거 및 명사만 추출
+- article_info.csv 파일의 Content 칼럼을 불용어 제거 및 명사만 추출
